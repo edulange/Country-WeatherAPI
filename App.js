@@ -8,7 +8,7 @@ import CountryList from "./Components/CountryList";
 //aprender como usar o postman
 // https://www.youtube.com/watch?v=rtR4s626ebE
 
-
+console.log('teste')
 
 
 const App = () => {
