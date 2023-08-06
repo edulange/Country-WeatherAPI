@@ -57,5 +57,5 @@
 <h2>Contact</h2>
 <p>If you have any questions or suggestions, feel free to get in touch:</p>
 <ul>
-  <li>Your Name - <a href="mailto:eduardoandrelange@gmail.com">your.email@example.com</a> - <a href="https://www.linkedin.com/in/eduardolange/">LinkedIn</a></li>
+  <li>Eduardo Lange- <a href="mailto:eduardoandrelange@gmail.com">eduardoandrelange@gmail.com/a> - <a href="https://www.linkedin.com/in/eduardolange/">LinkedIn</a></li>
 </ul>
