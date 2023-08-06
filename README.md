@@ -1,6 +1,6 @@
 <h1>Country Weather API</h1>
 
-<img src="/logo_white_cropped.png" alt="Project Logo" width="30" height="20">
+<img src="/logo_white_cropped.png" alt="Project Logo" width="250" height="175">
 
 <p>This is a web application that allows you to search for countries and retrieve information about them from all around the world. Additionally, the app leverages an API to provide weather data for the capital city of each country.</p>
 
@@ -30,7 +30,7 @@
 </ul>
 
 <h2>Screenshot</h2>
-<img src="/logo_white_cropped.png" alt="app">
+<img src="/weather api.png" alt="app">
 
 <h2>Usage Examples</h2>
 <p>Provide some examples of how to use the application or interact with the API.</p>
