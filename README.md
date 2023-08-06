@@ -4,6 +4,11 @@
 
 <p>This is a web application that allows you to search for countries and retrieve information about them from all around the world. Additionally, the app leverages an API to provide weather data for the capital city of each country.</p>
 
+<h2>Live Demo</h2>
+
+<p>Check out the live demo of the Weather App <a href="https://country-weatherapi.onrender.com/" target="_blank">here</a>.</p>
+
+
 <h2>Technologies Used</h2>
 <ul>
   <li>ReactJS</li>
@@ -21,11 +26,11 @@
 
 <h2>Main Features</h2>
 <ul>
-  <li>Describe the main features of the application.</li>
+  <li>Search for any country in the world!</li>
   <ul>
     <li>List and display information from the API.</li>
-    <li>Create, edit, and delete data.</li>
-    <li>Other relevant features.</li>
+    <li>It returns some basic info of the country as capital, area and official language </li>
+    <li>Returns realtime temperature, weather and windof the capital.</li>
   </ul>
 </ul>
 
