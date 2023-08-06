@@ -1,6 +1,6 @@
 <h1>Country Weather API</h1>
 
-<img src="/logo_white_cropped.png" alt="Project Logo" width="250" height="175">
+<img src="/logo_white_cropped.png" alt="Project Logo">
 
 <p>This is a web application that allows you to search for countries and retrieve information about them from all around the world. Additionally, the app leverages an API to provide weather data for the capital city of each country.</p>
 
@@ -30,10 +30,11 @@
 </ul>
 
 <h2>Screenshot</h2>
-<img src="/weather api.png" alt="app">
+<img align="center" src="/weather api.png" alt="app">
 
 <h2>Usage Examples</h2>
-<p>Provide some examples of how to use the application or interact with the API.</p>
+<p>Try to search for any country in the world!</p>
+<p>If there is <= 5 country in the filter, it will return the 5 countrys, otherwise it wont return anything</p>
 
 <h2>Contributing</h2>
 <p>Contributions are welcome! If you'd like to contribute to this project, follow the steps below:</p>
