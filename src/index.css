@@ -12,11 +12,12 @@ body {
 
 .filter-input,
 .country-card {
+  margin: 20px 20px 0 20px;
   width: 300px;
 }
 
 .filter-input {
-  width: 300px;
+  width: 100%;
 }
 
 .country-list-container {
