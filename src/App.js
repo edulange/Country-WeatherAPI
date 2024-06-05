@@ -49,5 +49,3 @@ const App = () => {
 	);
 };
 export default App;
-console.log('hoje n vai dar')
-console.log('hoje n vai dar')
